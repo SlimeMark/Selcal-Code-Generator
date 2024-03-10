@@ -10,6 +10,7 @@ def generate_selcal():
         second_letter = random.choice(letters_avail)
         if i == 0:
             segment_a = first_letter + second_letter
+            selcal_letters = [letter for letter in selcal_letters if letter not in segment_a]
         else:
             segment_b = first_letter + second_letter
 
