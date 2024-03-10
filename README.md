@@ -10,5 +10,5 @@ __*仅限模拟飞行使用*__
 A simple SELCAL code generator available for online flights or virtual airlines. Able to generate the code in batches.</br>
 The generator itself (`generateSelcal.py`) could also be imported as a module into other projects.
 ## Usage
-Simply run `main.py`
+Simply run `main.py`</br>
 __*FOR FLIGHT SIMULATION ONLY*__
