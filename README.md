@@ -1,3 +1,4 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9b2d28fa75ec4b7e8f0c418243b69324)](https://app.codacy.com/gh/SlimeMark/Selcal-Code-Generator/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 # Selcal生成器
 适用于模拟飞行连飞和虚拟航司的SELCAL码生成器，批量生成SELCAL，并可作为模块导入其它项目
 ## 使用
